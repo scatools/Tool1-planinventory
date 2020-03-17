@@ -1,0 +1,13 @@
+name: iop_beta
+title: iop_beta
+username:
+account: scagulf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1302723
+bundleId: 2807206
+url: https://scagulf.shinyapps.io/iop_beta/
+when: 1581967111.70143
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tool1.tar
