@@ -1,12 +1,12 @@
 function(input, output, session) {
 #Default popup window when landing
   showModal(div(id="ModalDiv123", modalDialog(
-    title = "Welcome to the Conservation Projects & Plans category Visualization Tool",
+    title = "Welcome to the SCA Conservation Planning Inventory Tool",
     HTML(c("<div align='left'>
              &nbsp; &nbsp; This visualization tool is intended for users to explore the plans inventory that 
-             has been collected during the development of SCA Tool.</br>
-             <b>Intended Use</b></br>
-             &nbsp; &nbsp; All the plans are categorized based on their relevance to achieving  the goals of the RESTORE Council.Under each RESTORE goal exists several priorities that were 
+             has been collected during the development of SCA Tool Suite.</br>
+             </br><b>Intended Use</b></br>
+             &nbsp; &nbsp; All the plans are categorized based on their relevance to achieving  the goals of the RESTORE Council. Under each RESTORE goal exists several priorities that were 
            identified by stakeholders and are reflected as GIS data layers.</div>")),
     footer = tagList(
       modalButton("Explore the Tool")),
