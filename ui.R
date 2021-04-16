@@ -29,11 +29,11 @@ navbarPage("SCA Project Plans Inventory", id="nav",
           #   tabsetPanel(id="tabsAbout",
           #               tabPanel("Introduction",
           #                        column(4,
-          #                               h5("    Welcome to the Conservation Projects & Plans category Visualization Tool.  
+          #                               h5("    Welcome to the SCA Conservation Planning Inventory Tool.
           #                                  This visualization tool is intended for users to explore the plans inventory that 
-          #                                  has been collected during the development of SCA Tool."),
+          #                                  has been collected during the development of SCA Tool Suite."),
           #                               h5("All the plans are categorized based on their relevance to achieving 
-          #                                  the goals of the RESTORE Council (Table 1).Under each RESTORE goal exists several priorities that were 
+          #                                  the goals of the RESTORE Council (Table 1). Under each RESTORE goal exists several priorities that were 
           #                                  identified by stakeholders and are reflected as GIS data layers.")
           #                               ),
           #                       column(6,
